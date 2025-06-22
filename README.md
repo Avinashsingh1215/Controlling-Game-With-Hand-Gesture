@@ -54,10 +54,10 @@ python main.py
 
 ## ⚙️ Requirements
 
-opencv-python
-mediapipe
-numpy
-pyautogui
-keyboard
+- **opencv-python**.
+- **mediapipe**.
+- **numpy**.
+- **pyautogui**.
+
 
 
