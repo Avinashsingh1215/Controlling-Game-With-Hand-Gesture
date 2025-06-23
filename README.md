@@ -23,8 +23,8 @@ Real-time hand tracking using MediaPipe Hands
 - **FPS monitoring and gesture overlay on the video feed**.
 
 ## 📽️ Demo
-🔴 Add a short GIF or YouTube link demonstrating how you control the game with your hand.
-(You can use tools like ScreenToGif or OBS Studio for recording.)
+🔴 To See the Demo video of how i control the game, their is a video I have shared with you
+play that video and see the working of my project.
 
 ## 🔧 Technologies Used
 - **Python**.
