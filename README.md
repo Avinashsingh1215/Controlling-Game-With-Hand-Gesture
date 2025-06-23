@@ -7,11 +7,11 @@ A computer vision project that enables users to control a game using real-time h
 This project demonstrates the integration of computer vision with interactive gameplay by recognizing hand gestures in real time. It provides a touch-free way to control in-game movements, simulating inputs like jump, shoot, move, etc., based on gestures like a fist, palm, or finger pointing.
 
 ## 🎯 Objectives
-Build a real-time hand gesture recognition system using webcam input.
+- **Build a real-time hand gesture recognition system using webcam input**.
 
-Map specific gestures to game controls (e.g., jump, shoot, move).
+- **Map specific gestures to game controls (e.g., jump, shoot, move)**.
 
-Provide an intuitive, touchless way to play games.
+- **Provide an intuitive, touchless way to play games**.
 
 ## 🛠️ Features
 Real-time hand tracking using MediaPipe Hands
